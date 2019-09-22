@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From Poliforminizm cok bicimlilik.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From_Poliforminizm_cok_bicimlilik.Form1.resources
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From_Poliforminizm_cok_bicimlilik.Properties.Resources.resources
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From Poliforminizm cok bicimlilik.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From Poliforminizm cok bicimlilik.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\bin\Debug\From Poliforminizm cok bicimlilik.exe.config
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\bin\Debug\From Poliforminizm cok bicimlilik.exe
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\bin\Debug\From Poliforminizm cok bicimlilik.pdb
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From Poliforminizm cok bicimlilik.exe
+C:\Users\reela\source\repos\From Poliforminizm cok bicimlilik\From Poliforminizm cok bicimlilik\obj\Debug\From Poliforminizm cok bicimlilik.pdb
